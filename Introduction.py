@@ -8,7 +8,7 @@ st.markdown("&nbsp;")
 
 st.write('# 1. 관심분야 (OTT 산업, 기후 위기)')
 st.markdown('# 1️⃣ **OTT 산업**')
-img = Image.open('ott1.png')
+img = Image.open('ott1.PNG')
 st.image(img, width=700)
 st.markdown(
     '''
@@ -43,7 +43,7 @@ st.markdown(
     )
 
 st.markdown('#  2️⃣**기후 위기**')
-img = Image.open('CC1.png')
+img = Image.open('CC1.PNG')
 st.image(img, width=700)
 st.markdown(
     '''
