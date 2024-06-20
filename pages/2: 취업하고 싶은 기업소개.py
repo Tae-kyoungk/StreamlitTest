@@ -19,7 +19,7 @@ st.markdown(
 
     ### ✅담당 업무
     - ##### <span style="color:#278f43">데이터 지표 관리와 통계 분석 및 비즈니스 인사이트 도출</span>을 담당한다.
-    - ##### <span style="color:#278f43">로그 수준의 데이터 가공을 바탕으로 기획, 설계 및 데이터 분석 툴(tool)</span> 운영한다.
+    - ##### <span style="color:#278f43">로그 수준의 데이터 가공을 바탕으로 기획, 설계 및 데이터 분석 툴(tool)</span>을 운영한다.
 '''
 , unsafe_allow_html=True)
 
