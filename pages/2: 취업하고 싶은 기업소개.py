@@ -26,6 +26,7 @@ st.markdown(
 st.markdown('## 2️⃣ **국립기상과학원**')
 img = Image.open('ki.PNG')
 st.image(img, width=600)
+st.markdown("&nbsp;")
 st.markdown('''
     - ##### 기상청 소속기관이다. 
     - ##### 기획운영과, 예보연구부, 관측연구부, 기후연구부, 기상응용연구부, 지구대기감시연구과, 인공지능기상연구과, 기후변화예측연구팀으로 구성되어 있다.
