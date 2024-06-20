@@ -11,9 +11,9 @@ st.markdown("&nbsp;")
 img = Image.open('rcc.PNG')
 st.image(img, width=600)
 st.markdown("&nbsp;")
-
-st.write('### 📜추천시스템 대략적 작동 경로📜')
 st.markdown("&nbsp;")
+st.write('### 📜추천시스템 대략적 작동 경로📜')
+
 st.markdown('''
 ##### 1️⃣ OTT 이용자가 자신이 좋아하는 스타일의 영화 제목을 입력한다.
 ##### 2️⃣ 이용자가 입력한 <span style="color:#278f43">영화의 장르와 이용자의 영화 시청·별점 이력, 선호하는 배우·감독·제작진을 분석</span>한다.
